@@ -20,9 +20,10 @@ nav-menu: true
     <section class="left_side">
       <div class="info">
         <h2>Jackson Han</h2>
-        <h6>Software developer focused on research-oriented systems</h6>
-        My name is Jackson. I studied Computer Science at the University of Toronto and have worked across backend services, QA automation, full-stack prototypes, teaching, and student-led products.
-        I am currently rebuilding my public portfolio around the work I am actively doing: research recreations, data pipelines, testing, and careful engineering notes. The goal of this site is to make my current technical judgement visible without relying on an outdated resume.
+        <h6>Software engineer focused on distributed systems, data pipelines, and research-oriented software</h6>
+        My name is Jackson. I studied Computer Science at the University of Toronto, graduating with High Distinction, and have worked on large-scale distributed systems, real-time audio streaming, telephony analytics, payment flows, and AWS-backed product infrastructure.
+        My engineering background spans C, Python, Java, PostgreSQL, Bash, AWS, CI/CD, algorithms, machine learning fundamentals, numerical methods, and empirical performance analysis. I am especially interested in applying systems experience to machine learning, computer vision, image understanding, efficient model training, real-time inference, and large-scale data processing.
+        I also work comfortably with modern coding agents as part of an engineering workflow: using them to explore unfamiliar code, accelerate implementation, generate tests, review tradeoffs, and maintain a higher iteration speed without giving up technical ownership.
       </div>  
     </section>
     <section class="right_side">
