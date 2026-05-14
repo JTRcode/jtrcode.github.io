@@ -2,15 +2,15 @@
 title: Jackson Han
 subtitle:
 email: jacksonhan@opayq.com
-description: This site acts as a museum of what I have done<br /> and for you to learn more about me.
+description: Software projects, research recreations, and engineering notes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jtrcode.github.io # the base hostname & protocol for your site
 author:
-street_address: 1265 Military Trail
-city: Scarborough
-state: ON
-zip_code: M1C 1A4
-country: Canada
+street_address:
+city:
+state:
+zip_code:
+country:
 phone:
 
 # homepage tiles
@@ -19,7 +19,7 @@ tiles-count: 40
 
 # social settings
 500px_url:
-facebook_url: https://facebook.com/jackson.han.338
+facebook_url:
 github_url: https://github.com/JTRcode
 gitlab_url: 
 googleplus_url: 

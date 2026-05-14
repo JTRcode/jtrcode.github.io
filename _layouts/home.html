@@ -19,7 +19,7 @@
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <p>{{ site.description }}</p>
                 <!-- <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get Started</a></li>
                 </ul> -->
@@ -29,6 +29,14 @@
 
     <!-- Main -->
     <div id="main">
+
+        {% if content != "" %}
+        <section id="intro" class="profile-intro">
+            <div class="inner">
+                {{ content }}
+            </div>
+        </section>
+        {% endif %}
 
         <!-- One -->
         {% include tiles.html %}

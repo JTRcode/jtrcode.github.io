@@ -79,4 +79,39 @@
 	@import 'layout/wrapper';
 	@import 'layout/menu';
 	@import 'about';
-	@import 'resume';
+
+	.profile-intro {
+		p {
+			max-width: 52em;
+		}
+
+		.actions {
+			margin-top: 2em;
+		}
+	}
+
+	.work-grid {
+		display: grid;
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+		gap: 1.5em;
+		margin: 2em 0;
+
+		article {
+			border: solid 1px _palette(border);
+			padding: 1.5em;
+		}
+
+		h3 {
+			margin-top: 0;
+		}
+	}
+
+	.progress-log h2 {
+		margin-top: 2em;
+	}
+
+	@include breakpoint(medium) {
+		.work-grid {
+			grid-template-columns: 1fr;
+		}
+	}

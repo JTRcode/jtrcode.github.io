@@ -20,9 +20,9 @@ nav-menu: true
     <section class="left_side">
       <div class="info">
         <h2>Jackson Han</h2>
-        <h6>Junior Full Stack Devloper</h6>
-        My name is Jackson and I'm currently a fourth year student at University of Toronto specializing in Computer Science.
-        I'm outgoing and devoted to the work I do, always learning and applying what I have learned. This website is a showcase of some of the things that I do. To learn more about me feel free to see my resume or email me.
+        <h6>Software developer focused on research-oriented systems</h6>
+        My name is Jackson. I studied Computer Science at the University of Toronto and have worked across backend services, QA automation, full-stack prototypes, teaching, and student-led products.
+        I am currently rebuilding my public portfolio around the work I am actively doing: research recreations, data pipelines, testing, and careful engineering notes. The goal of this site is to make my current technical judgement visible without relying on an outdated resume.
       </div>  
     </section>
     <section class="right_side">
